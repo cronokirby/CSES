@@ -1,8 +1,8 @@
+// https://cses.fi/problemset/task/1641
 #include <bits/stdc++.h>
 
 using namespace std;
 typedef int_fast64_t i64;
-typedef uint_fast64_t u64;
 
 int main() {
   i64 n, target;
