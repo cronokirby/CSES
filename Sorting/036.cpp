@@ -7,7 +7,7 @@ typedef int_fast64_t i64;
 int main() {
   i64 n, x;
   cin >> n >> x;
-  i64* A = new i64[n];
+  i64 *A = new i64[n];
   for (i64 i = 0; i < n; ++i) {
     cin >> A[i];
   }
